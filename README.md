@@ -21,7 +21,7 @@ The challenge is to transform customer shopping data into meaningful insights ab
 
 ## Project Workflow
 
-![Customer Behavior Analysis Project Workflow](project-workflow.png)
+![Customer Behavior Analysis Project Workflow](customer-project-workflow.png)
 
 **Data Collection → Data Cleaning → Data Analysis & Exploratory Analysis → Data Visualization → Business Insights**
 
