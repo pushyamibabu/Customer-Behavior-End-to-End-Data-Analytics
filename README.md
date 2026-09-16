@@ -115,4 +115,4 @@ The final solution transforms raw customer shopping data into a structured custo
 
 ## Dashboard
 
-![Customer Behavior Dashboard](Customer_Behavior_Dashboard_SC.png)
+![Customer Behavior Dashboard](Customer_Behavior_Dashboard.png)
